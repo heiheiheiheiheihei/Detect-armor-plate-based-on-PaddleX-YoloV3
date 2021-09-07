@@ -26,7 +26,6 @@
 ![al3EIU.jpg](https://s1.ax1x.com/2020/07/31/al3EIU.jpg)
 ![al3iq0.jpg](https://s1.ax1x.com/2020/07/31/al3iq0.jpg)
 
-### 本文作者为重庆三峡学院LionHeart战队顾问**马云飞**
 ### 感谢 [宋迪老师](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/31756) 以及 [BIT可达鸭](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/67156) 的指导
 
 
@@ -609,9 +608,6 @@ model.save_model('darknet53-model')
 ## 关于作者
 
 > ## 马云飞 
-> 枣庄学院 地理信息科学专业 大二在读  
-> 山东数据庄园网络科技有限公司 技术总监  
-> 重庆三峡学院LionHeart战队 顾问  
 > 感兴趣的方向为：神经网络在遥感领域的应用 等  
 
 > GitHub: <https://github.com/heiheiheiheiheihei>  
